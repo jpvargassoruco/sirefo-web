@@ -1,5 +1,6 @@
-# Entornos y secretos — nunca versionar credenciales
-.env
+# NOTA: backend/.env está versionado a propósito — este repo es una DEMO en modo
+# mock y solo contiene valores de desarrollo. Si se configura contra el servicio
+# real de ASFI, mover las credenciales fuera del repo y volver a ignorar .env.
 *.env.local
 
 # Python

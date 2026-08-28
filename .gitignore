@@ -1,0 +1,21 @@
+# Entornos y secretos — nunca versionar credenciales
+.env
+*.env.local
+
+# Python
+.venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+
+# Base de datos local
+*.db
+*.sqlite3
+
+# Node / build del frontend
+node_modules/
+dist/
+
+# Varios
+*.log
+.DS_Store

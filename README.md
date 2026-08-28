@@ -100,5 +100,6 @@ Ver `backend/.env.example` y `docs/SPEC.md` §1. Las más importantes:
 - `docs/MANUAL_USUARIO.md` — manual breve para operadores y usuarios de consulta.
 - `docs/MANUAL_ADMIN.md` — manual breve de administración (usuarios, configuración, respaldo, producción).
 - `docs/SPEC.md` — especificación técnica completa (contrato SOAP, hashes, API REST, UI).
+- `docs/Documentación Técnica - Web Services (ASFI).pdf` — documento original de ASFI del que deriva la especificación.
 - `backend/` — FastAPI + SQLAlchemy (SQLite) + gateway SIREFO (mock/zeep) + pruebas.
 - `frontend/` — React 18 + Vite, SPA en español con control de roles (admin/operador/consulta).
